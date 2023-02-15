@@ -52,14 +52,8 @@ const columns = [
   return (
    <Box m='20px'>
      <Headers title='Team' subtitle='Managing Team'>
-          {/* <Box m='40px 0 0 0' height='80vh'>
-           <DataGrid
-           rows={rows} columns={columns}
-           >
-           </DataGrid>
-          </Box> */}
      </Headers>
-
+     <h1>Hello wrold</h1>
    </Box>
   )
 }
