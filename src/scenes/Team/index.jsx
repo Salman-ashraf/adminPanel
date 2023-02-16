@@ -53,7 +53,9 @@ const columns = [
    <Box m='20px'>
      <Headers title='Team' subtitle='Managing Team'>
      </Headers>
-     <h1>Hello wrold</h1>
+     <h1>Hello wrold mile</h1>
+
+     <h2>this is mile branch</h2>
    </Box>
   )
 }
