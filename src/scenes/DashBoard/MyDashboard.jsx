@@ -2,7 +2,12 @@ import React from 'react'
 
 const MyDashboard = () => {
   return (
-    <div>MyDashboard</div>
+
+    <div>MyDashboard
+
+        this is mydashboard
+    </div>
+
   )
 }
 
